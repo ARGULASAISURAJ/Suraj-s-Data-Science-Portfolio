@@ -1,7 +1,7 @@
 # Suraj-s-Data-Science-Portfolio
 This portfolio contains brief descriptions of all the projects that I have done so far and links to navigate through them. 
 
-[# Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries](https://github.com/ARGULASAISURAJ/Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries)
+# [Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries](https://github.com/ARGULASAISURAJ/Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries)
 Summary-
 * Statistical modelling helps us to determine where our research needs to be focused and realize the factors that impact the healthcare quality and expenses. 
 * The main objective of our research and analysis is to understand how to minimize the health expenses while improving or maintaining the same health quality. 
