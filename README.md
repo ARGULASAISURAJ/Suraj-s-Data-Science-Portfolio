@@ -24,7 +24,7 @@ Summary-
 # [Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa](https://github.com/ARGULASAISURAJ/Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa)
 
 * In this project,I have segmented neighbourhoods in the city of tampa, and clustered them  with unsupervised learning, to suggest new neighbourhood to set up business. In this particular project, i have used movie theatre as a business. 
-
+[] (https://github.com/ARGULASAISURAJ/Surajs-Data-Science-Portfolio/blob/master/Images/Neighbourhood.png)
 
 # [Classify-Drug-respopnse-on-patients](https://github.com/ARGULASAISURAJ/Classify-Drug-respopnse-on-patients)
 
