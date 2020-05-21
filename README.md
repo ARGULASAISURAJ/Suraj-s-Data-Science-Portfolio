@@ -44,7 +44,7 @@ Summary-
   Support Vector Machines
   
 
-# Data Science Professional Certificaion-[credentials](https://www.coursera.org/account/accomplishments/specialization/XZJAA3SAKE6P)
+# [Data Science Professional Certificaion](https://www.coursera.org/account/accomplishments/specialization/XZJAA3SAKE6P)
   Learnings
   What is Data Science?
   Tools for Data Science
