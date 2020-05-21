@@ -1,7 +1,9 @@
  
 You can reach me at 
-## [LinkedIn](https://www.linkedin.com/in/sai-suraj-argula-47900089/)
-## [email- saisuraj473@gmail.com] 
+[LinkedIn](https://www.linkedin.com/in/sai-suraj-argula-47900089/)
+[email- saisuraj473@gmail.com] 
+Have a look at my resume here- [resume](https://github.com/ARGULASAISURAJ/Surajs-Data-Science-Portfolio/blob/master/Resume/Suraj_Resume)
+
 # [Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries](https://github.com/ARGULASAISURAJ/Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries)
 
 Summary-
