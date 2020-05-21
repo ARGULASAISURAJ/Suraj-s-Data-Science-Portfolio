@@ -21,6 +21,11 @@ Summary-
 
 * In this notebook,I have used Keras library to build a regression model that predicts the concrete strength given its ingredients values like Cement, BlastFurnace, Flyash,Water Superplasticizer, Coarse aggregate, Fine aggregate and age. I have used regression model because strength is a continuous data in the dataset.
 
+# [Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa](https://github.com/ARGULASAISURAJ/Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa)
+
+* In this project,I have segmented neighbourhoods in the city of tampa, and clustered them  with unsupervised learning, to suggest new neighbourhood to set up business. In this particular project, i have used movie theatre as a business. 
+
+
 # [Classify-Drug-respopnse-on-patients](https://github.com/ARGULASAISURAJ/Classify-Drug-respopnse-on-patients)
 
 * In this project, i used decison tree classification algorithm to build a model from historical data of patients, and their response to different medications and used that model to predict the class of a unknown patient, or to find a proper drug for a new patient.
