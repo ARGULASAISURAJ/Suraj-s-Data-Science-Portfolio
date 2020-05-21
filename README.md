@@ -21,6 +21,11 @@ Summary-
 
 * In this notebook,I have used Keras library to build a regression model that predicts the concrete strength given its ingredients values like Cement, BlastFurnace, Flyash,Water Superplasticizer, Coarse aggregate, Fine aggregate and age. I have used regression model because strength is a continuous data in the dataset.
 
+# [Prediction-of-Co2-Emission-from-cars](https://github.com/ARGULASAISURAJ/Prediction-of-Co2-Emission-from-cars)
+
+* In this Project, I used scikit-learn's Multiple linear regression to predict co2 emission from cars based upon 'ENGINESIZE', 'CYLINDERS', 'FUELCONSUMPTION' of car. I collected data from Government of Canada's website (https://open.canada.ca/data/en/dataset/98f1a129-f628-4ce4-b24d-6f16bf24dd64), dataset related to fuel consumption and Carbon dioxide emission of cars made in year 2014.
+
+
 # [Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa](https://github.com/ARGULASAISURAJ/Neighborhood-segmentation-and-Clustering-in-the-City-of-Tampa)
 
 * In this project,I have segmented neighbourhoods in the city of tampa, and clustered them  with unsupervised learning, to suggest new neighbourhood to set up business. In this particular project, i have used movie theatre as a business. 
