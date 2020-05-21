@@ -30,30 +30,48 @@ Summary-
 
 
 # Certifications
-# [Machine Learning-](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
+
+# [Machine Learning](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
   Learnings
   Pre-requsites- Octave/Matlab, Linear Algebra
   
   Machine learning Algorithms-
+  
   Linear regression
+  
   Logistic regression
+  
   Neural networks
+  
   Anomaly Detection
+  
   Recommender system
+  
   Regularisation
+  
   Support Vector Machines
   
 
 # [Data Science Professional Certificaion](https://www.coursera.org/account/accomplishments/specialization/XZJAA3SAKE6P)
+  
   Learnings
+  
   What is Data Science?
+  
   Tools for Data Science
+  
   Data Science Methodology
+  
   Python for Data Science and AI
+  
   Databases and SQL for Data Science
+  
   Data Analysis with Python
+  
   Data Visualization with Python  
+  
   Machine Learning with Python
+  
   Applied Data Science Capstone
 
 
