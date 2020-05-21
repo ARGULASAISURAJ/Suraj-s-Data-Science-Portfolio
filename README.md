@@ -12,3 +12,35 @@ Summary-
 * Collection of data and data source play a paramount role in the analysis. we have built our own dataset by taking the data from reliable resources such as OECD and WHO after analyzing the literature. 
 * Two independent models have been built to understand and analyze the factors that are affecting healthcare quality and expenses. The statistical data modelling involved building up of several models and to find out the unbiased model that generalizes and provide feasible recommendations that could reduce the health expenses and improve the health quality. 
 * The key insights from our models is that the life expectancy of a country can be improved by increasing the health resources such as hospitals, medical graduates. The country’s healthcare expenses can have the maximum benefit when we bring more % of population under public insurance. 
+
+# Certifications
+# Machine Learning-[credentials](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
+  Learnings
+  --------
+  Pre-requsites- Octave/Matlab, Linear Algebra
+  Machine learning Algorithms-
+  ----------------------
+  Linear regression
+  Logistic regression
+  Neural networks
+  Anomaly Detection
+  Recommender system
+  Regularisation
+  Support Vector Machines
+  
+
+# Data Science Professional Certificaion-[credentials](https://www.coursera.org/account/accomplishments/specialization/XZJAA3SAKE6P)
+  Learnings
+  What is Data Science?
+  Tools for Data Science
+  Data Science Methodology
+  Python for Data Science and AI
+  Databases and SQL for Data Science
+  Data Analysis with Python
+  Data Visualization with Python  
+  Machine Learning with Python
+  Applied Data Science Capstone
+
+
+
+# [Resource](https://pages.github.com/) to build a page like this. 
