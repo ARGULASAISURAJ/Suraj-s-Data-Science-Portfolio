@@ -14,12 +14,11 @@ Summary-
 * The key insights from our models is that the life expectancy of a country can be improved by increasing the health resources such as hospitals, medical graduates. The country’s healthcare expenses can have the maximum benefit when we bring more % of population under public insurance. 
 
 # Certifications
-# Machine Learning-[credentials](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
+# [Machine Learning-](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
   Learnings
-  --------
   Pre-requsites- Octave/Matlab, Linear Algebra
+  
   Machine learning Algorithms-
-  ----------------------
   Linear regression
   Logistic regression
   Neural networks
