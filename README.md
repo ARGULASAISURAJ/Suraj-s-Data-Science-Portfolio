@@ -1,8 +1,9 @@
  
 You can reach me at 
-[LinkedIn](https://www.linkedin.com/in/sai-suraj-argula-47900089/)
-[email]- saisuraj473@gmail.com
-[call] +1 8135396715
+[LinkedIn](https://www.linkedin.com/in/sai-suraj-argula-47900089/),
+email- saisuraj473@gmail.com ,
+call +1 8135396715
+
 Have a look at my resume here- [resume](https://github.com/ARGULASAISURAJ/Surajs-Data-Science-Portfolio/blob/master/Resume/Suraj_Resume)
 
 # [Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries](https://github.com/ARGULASAISURAJ/Estimation-of-Healthcare-cost-and-Healthcare-Quality-in-OECD-Countries)
@@ -13,6 +14,20 @@ Summary-
 * Collection of data and data source play a paramount role in the analysis. we have built our own dataset by taking the data from reliable resources such as OECD and WHO after analyzing the literature. 
 * Two independent models have been built to understand and analyze the factors that are affecting healthcare quality and expenses. The statistical data modelling involved building up of several models and to find out the unbiased model that generalizes and provide feasible recommendations that could reduce the health expenses and improve the health quality. 
 * The key insights from our models is that the life expectancy of a country can be improved by increasing the health resources such as hospitals, medical graduates. The country’s healthcare expenses can have the maximum benefit when we bring more % of population under public insurance. 
+
+# [Predicting Concrete Strength using Regression with Keras](https://github.com/ARGULASAISURAJ/Predicting-Concrete-Strength-using-Regression-with-Keras)
+
+* In this notebook,I have used Keras library to build a regression model that predicts the concrete strength given its ingredients values like Cement, BlastFurnace, Flyash,Water Superplasticizer, Coarse aggregate, Fine aggregate and age. I have used regression model because strength is a continuous data in the dataset.
+
+# [Classify-Drug-respopnse-on-patients](https://github.com/ARGULASAISURAJ/Classify-Drug-respopnse-on-patients)
+
+* In this project, i used decison tree classification algorithm to build a model from historical data of patients, and their response to different medications and used that model to predict the class of a unknown patient, or to find a proper drug for a new patient.
+
+# [Human-Cancer-Cell-Classification-using-SVM](https://github.com/ARGULASAISURAJ/Human-Cancer-Cell-Classification-using-SVM)
+
+* In this Project, SVM (Support Vector Machines) is used to build and train a model using human cell records, and classify cells to whether the samples are benign or malignant.
+
+
 
 # Certifications
 # [Machine Learning-](https://www.coursera.org/account/accomplishments/records/8P7JWH9UU6PP)
