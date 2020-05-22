@@ -31,9 +31,13 @@ Summary-
 * In this project,I have segmented neighbourhoods in the city of tampa, and clustered them  with unsupervised learning, to suggest new neighbourhood to set up business. In this particular project, i have used movie theatre as a business. 
 [] (https://github.com/ARGULASAISURAJ/Surajs-Data-Science-Portfolio/blob/master/Images/Neighbourhood.png)
 
-# [Classify-Drug-respopnse-on-patients](https://github.com/ARGULASAISURAJ/Classify-Drug-respopnse-on-patients)
+# [Drug-Classification-by-patients-response](https://github.com/ARGULASAISURAJ/Drug-Classification-by-patients-response)
 
-* In this project, i used decison tree classification algorithm to build a model from historical data of patients, and their response to different medications and used that model to predict the class of a unknown patient, or to find a proper drug for a new patient.
+* In this project, I used decison tree classification algorithm to build a model from historical data of patients, their response to different medications and predict the class of a unknown patient, or to find a proper drug for a new patient. The feature sets of this dataset are Age, Sex, Blood Pressure, and Cholesterol of patients, and the target is the drug (one of 5 medications, Drug A, Drug B, Drug c, Drug x and y) that each patient responded to.
+
+The final Classification Tree-
+![](https://github.com/ARGULASAISURAJ/Drug-Classification-by-patients-response/blob/master/drugtree.png)
+
 
 # [Human-Cancer-Cell-Classification-using-SVM](https://github.com/ARGULASAISURAJ/Human-Cancer-Cell-Classification-using-SVM)
 
